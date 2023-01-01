@@ -12,3 +12,4 @@ def days_between(date_given):
 
 
 days_between("2022-12-31")
+# Returns "Between 2022-12-31 and the current date 2023-01-01 there's: 1 day/s"

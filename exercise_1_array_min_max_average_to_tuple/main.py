@@ -5,3 +5,4 @@ def min_max_average(array_numbers):
 
 
 print(min_max_average([4, 8, 1, 25]))
+# Returns (1, 25, 9.5)

@@ -30,3 +30,8 @@ print(point_a)
 print(point_a == point_b)
 print(point_b == point_c)
 print(point_a == point_c)
+""" Returns
+This point contains X=2, Y=4 and Z=6
+False
+False
+True """
